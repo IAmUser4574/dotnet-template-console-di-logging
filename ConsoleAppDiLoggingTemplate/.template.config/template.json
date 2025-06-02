@@ -1,0 +1,28 @@
+{
+  "author": "IAmUser4574",
+  "name": "Console DI Logging",
+  "description": "A project for creating a command-line application that can run on .NET on Windows, Linux and macOS, and has an async Main method.",
+  "identity": "IAmUser4574.ConsoleAppDiLoggingTemplate.1.0",
+  "shortName": "consoledilogging",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "ConsoleAppDiLoggingTemplate",
+  "symbols": {
+    "Framework": {
+      "type": "parameter",
+      "description": "The target framework for the project.",
+      "datatype": "choice",
+      "choices": [
+        {
+          "choice": "net8.0"
+        },
+        {
+          "choice": "net9.0"
+        }
+      ],
+      "defaultValue": "net9.0"
+    }
+  }
+}

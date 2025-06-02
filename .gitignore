@@ -1,0 +1,5 @@
+.idea/*
+ConsoleAppDiLoggingTemplate/bin/*
+ConsoleAppDiLoggingTemplate/obj/*
+ConsoleAppDiLoggingTemplate/logs/*
+ConsoleAppDiLoggingTemplate.sln.DotSettings.user
